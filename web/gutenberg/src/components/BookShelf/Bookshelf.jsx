@@ -1,7 +1,3 @@
-import logo from '../../resources/Logo.png'
-import { User } from 'react-feather';
-import user from '../../resources/userEx.jpeg'
-import RoundedImage from '../RoundedImage/RoundedImage';
 import Book from '../Book/Book';
 import { useState } from 'react';
 

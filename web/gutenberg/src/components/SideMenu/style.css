@@ -1,0 +1,13 @@
+.sidemenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 100%;
+    background-color: red;
+    color: #ffffff;
+
+}
